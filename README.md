@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# **Getting Started with this repository**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First clone this repository, cd into the directory, run 'npm -i', then run 'ng serve'.
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
