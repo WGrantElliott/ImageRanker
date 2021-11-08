@@ -1,6 +1,6 @@
 # **Getting Started with this repository**
 
-First clone this repository, cd into the directory, run 'npm -i', then run 'ng serve'.
+First clone this repository, cd into the directory, run 'npm install', then run 'npm start'.
 
 ## Available Scripts
 
