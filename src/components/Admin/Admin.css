@@ -1,0 +1,66 @@
+.title {
+    text-align: left;
+    padding: 3rem 0;
+}
+
+.wrapper {
+    padding: 1rem 5rem;
+}
+
+.projects-container {
+    display: flex;
+    flex-grow: 100;
+    border: 3px solid grey;
+    border-radius: 5px;
+    flex-direction: column;
+}
+
+.button {
+    background-color: #4287f5;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    padding: 1rem;
+    line-height: 1;
+	outline: inherit;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #429999;
+}
+
+.options-wrapper {
+    border-radius: 10px;
+    border: 3px solid grey;
+    flex: 1;
+    padding: 1rem;
+    margin: 0 3vw;
+}
+
+.project-tile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2rem 0;
+    border: 1px solid black;
+}
+
+.project-tile:hover {
+    background-color: #d1d1d1;
+}
+
+.multiselect-tile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1rem 0;
+}
+
+.multiselect-tile:hover {
+    background-color: #d1d1d1;
+    cursor: pointer;
+}
+
